@@ -1,0 +1,18 @@
+clas=container >class=row>div clas="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6"
+
+BOOTSTRAP:it is a front end library to make a responsive
+______________
+
+classification :
+
+col-   extra small   :exclusively for mobile devices.
+col-sm-   small
+col-md-    medium
+col-lg-    large
+col-xl-    extra large
+col-xxl-   extra extra large
+
+
+
+to give command 
+select line ctrl+?
